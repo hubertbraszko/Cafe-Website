@@ -1,0 +1,14 @@
+Topics/
+/.gradle/
+course-info.yaml
+course-remote-info.yaml
+/Hyperskill\ Cafe/*
+!/Hyperskill\ Cafe/task
+/Hyperskill\ Cafe/task/*
+!/Hyperskill\ Cafe/task/src
+!/Hyperskill\ Cafe/task/build.gradle
+/util/
+/.idea/
+package.json
+package-lock.json
+/node_modules
