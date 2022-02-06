@@ -4,3 +4,9 @@
 body {
     font-family: 'Roboto', sans-serif !important;
 }
+
+#about img {
+    height: 60vh;
+
+}
+
