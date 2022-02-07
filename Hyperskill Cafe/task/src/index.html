@@ -136,28 +136,30 @@
       </div>
       <div id="reviews" class="bg-light container-fluid m-auto p-0">
           <h2 class="display-5 fw-bold pt-5 px-5">Reviews From Our Customers</h2>
-          <div class="container px-5">
+          <div class="container px-5 my-3">
               <p>
-                  <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                  <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseReview" aria-expanded="false" aria-controls="collapseReview">
                       Add Review
                   </button>
               </p>
-              <div class="collapse" id="collapseExample">
-                  <div class="card card-body">
-                      <form>
-                          <div class="mb-3">
+              <div class="collapse" id="collapseReview">
+                  <div class="card card-body px-5">
+                      <form class="row g-3">
+                          <div class="col-md-4">
                               <label for="reviewTitle" class="form-label">Title</label>
                               <input id="reviewTitle" type="text" class="form-control" id="exampleInputEmail1">
                           </div>
-                          <div class="mb-3">
+                          <div class="col-md-4">
                               <label for="reviewComment" class="form-label">Comment</label>
                               <input type="text" class="form-control" id="reviewComment">
                           </div>
-                          <div class="mb-3">
+                          <div class="col-md-4">
                               <label for="reviewName" class="form-label">Name</label>
                               <input type="text" class="form-control" id="reviewName">
                           </div>
-                          <button type="submit" class="btn btn-primary">Submit</button>
+                          <div class="col-12">
+                              <button type="submit" class="btn btn-primary">Submit</button>
+                          </div>
                       </form>
                   </div>
               </div>
