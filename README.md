@@ -1,5 +1,5 @@
 # Cafe-Website
-Simple website for learing fronted technologies - css, html, bootstrap and JS
+Simple website for learing frontend technologies - CSS, HTML, bootstrap and JS
 
 ## Table of Contents
 1. [Description](#description)
@@ -10,7 +10,7 @@ Simple website for learing fronted technologies - css, html, bootstrap and JS
 
 ## Description
  
-Cafe-website is a demo site. It was build using bootstrap. Main purposue of this projetct was learing fronted technologies.
+Cafe-website is a demo site. It was build using bootstrap. Main purposue of this projetct was learing frontend technologies.
 
 <div id="demo">
   
